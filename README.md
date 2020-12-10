@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
 
 ## :balloon: Programming languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/th1ag0-Zz/)](https://github.com/th1ag0-Zz/) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/th1ag0-Zz/)](https://github.com/th1ag0-Zz/)
+
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/th1ag0-Zz/)](https://github.com/th1ag0-Zz/)
 
 ## :cherries: Operational systems
 Windows and Linux (Manjaro) :penguin:
