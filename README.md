@@ -21,7 +21,6 @@ Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/th1ag0-Zz/)
 
 ## :cherries: Operational systems
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
