@@ -7,9 +7,16 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/thiag0_dev/
 
+<div align="center">
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Instagram][instagram-shield]][instagram-url]
+
+</div>
+
+
+<img style="margin-left: 15px" width="420px" align="right" src="./.github/hmm.gif">
 
 ## :smile: About me
 Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
