@@ -7,7 +7,7 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/thiag0_dev/
 
-<div align="center">
+<div align="lwft">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
