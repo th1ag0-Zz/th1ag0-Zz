@@ -7,12 +7,12 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/thiag0_dev/
 
-<div style="display: inline-block; float: right">
+<div align="right">
 
-<img style="margin-bottom: 8px; border-radius: 5px" width="350px" src="./.github/hmm.gif">
+<img align="right" style="margin-bottom: 8px" width="428px" src="./.github/hmm.gif">
 
 <p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical">
+<img style="margin-bottom: 8px"  align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical">
 </p>
 
 </div>
