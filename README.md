@@ -9,10 +9,10 @@
 
 <div align="right">
 
-<img align="right" style="margin-bottom: 8px" width="428px" src="./.github/hmm.gif">
+<img align="right" margin="8px" width="428px" src="./.github/hmm.gif">
 
 <p>
-<img style="margin-bottom: 8px"  align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical">
+<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical&hide_border=true">
 </p>
 
 </div>
