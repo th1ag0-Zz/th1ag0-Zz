@@ -7,12 +7,12 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/thiag0_dev/
 
-<div align="right" style="display: inline-block; float: right">
+<div style="display: inline-block; float: right">
 
-<img align="right" style="margin-left: 15px; margin-bottom: 8px; border-radius: 5px" width="350px" src="./.github/hmm.gif">
+<img style="margin-bottom: 8px; border-radius: 5px" width="350px" src="./.github/hmm.gif">
 
 <p>
-<img style="margin-bottom: 10px" align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical">
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical">
 </p>
 
 </div>
@@ -23,7 +23,8 @@
 [![Instagram][instagram-shield]][instagram-url]
 
 ## :smile: About me
-Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
+Hello, I am a Front End Developer looking for FullStack status.
+My focus is the Javascript Stack. :stuck_out_tongue_winking_eye:
 
 ## :balloon: Techs
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
