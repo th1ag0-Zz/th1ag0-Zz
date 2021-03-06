@@ -7,7 +7,7 @@
 [instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
 [instagram-url]: https://www.instagram.com/thiag0_dev/
 
-<div align="right" style="margin-left: 15px, display: inline-block; float: right">
+<div align="right" style="display: inline-block; float: right">
 
 <img align="right" style="margin-left: 15px; margin-bottom: 8px; border-radius: 5px" width="350px" src="./.github/hmm.gif">
 
