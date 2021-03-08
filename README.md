@@ -1,11 +1,16 @@
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=linkedin&colorB=2867B2
-[linkedin-url]: https://www.linkedin.com/in/thiago-furtado-silva/
+<div align="center">
+<a href="https://www.linkedin.com/in/thiago-furtado-silva/">
+<img height="24" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[gmail-shield]: https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&colorB=FD1D1D&logoColor=white
-[gmail-url]: mailto:thiagof89.tf@gmail.com
+<a href="thiagof89.tf@gmail.com">
+<img height="24" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[instagram-shield]: https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&colorB=833AB4&logoColor=white
-[instagram-url]: https://www.instagram.com/thiag0_dev/
+<a href="https://www.instagram.com/thiag0_dev/">
+<img height="24" alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+</div>
 
 <div align="right">
 
@@ -17,24 +22,18 @@
 
 </div>
 
+# :smile: About me
+Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-[![Instagram][instagram-shield]][instagram-url]
+# :balloon: Languages and Techs
+<img height="24" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="24" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="24" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img height="24" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="24" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-## :smile: About me
-Hello, I am a Front End Developer looking for FullStack status.
-My focus is the Javascript Stack. :stuck_out_tongue_winking_eye:
-
-## :balloon: Techs
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e3ad19?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-## :cherries: Operational systems
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+# :cherries: Frameworks
+<img height="24" alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img height="24" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img height="24" alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img height="24" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
