@@ -1,3 +1,13 @@
+<div align="right">
+
+<img align="right" margin="8px" width="428px" src="./.github/hmm.gif">
+
+<p>
+<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical&hide_border=true">
+</p>
+
+</div>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/thiago-furtado-silva/">
 <img height="24" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,16 +20,6 @@
 <a href="https://www.instagram.com/thiag0_dev/">
 <img height="24" alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-</div>
-
-<div align="right">
-
-<img align="right" margin="8px" width="428px" src="./.github/hmm.gif">
-
-<p>
-<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical&hide_border=true">
-</p>
-
 </div>
 
 # :smile: About me
