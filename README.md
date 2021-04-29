@@ -13,7 +13,7 @@
 <img height="22" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="thiagof89.tf@gmail.com">
+<a href="thiagodeveloper89@gmail.com">
 <img height="22" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
