@@ -3,7 +3,7 @@
 <img align="right" margin="8px" width="428px" src="./.github/hmm.gif">
 
 <p>
-<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars&layout=compact&theme=radical&hide_border=true">
+<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars,scss&layout=compact&theme=radical&hide_border=true">
 </p>
 
 </div>
