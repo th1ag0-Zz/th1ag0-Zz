@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! I'm Thiago Silva 👋 </h1>
-<h3 align="center">🚀 FrontEnd Developer | ReactJS and ReactNative 🚀</h3>
+
 
 <div align="right">
 
@@ -8,6 +7,10 @@
 </div>
 
 <div align="center">
+
+<h1 align="center">Hey there! I'm Thiago Silva 👋 </h1>
+<h3 align="center">🚀 FrontEnd Developer | ReactJS and ReactNative 🚀</h3>
+
 <a href="https://www.linkedin.com/in/thiago-furtado-silva/">
 <img height="22" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
