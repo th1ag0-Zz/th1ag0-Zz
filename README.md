@@ -1,10 +1,9 @@
+<h1 align="center">Hey there! I'm Thiago Silva 👋 </h1>
+<h3 align="center">🚀 FrontEnd Developer | ReactJS and ReactNative 🚀</h3>
+
 <div align="right">
 
-<img align="right" margin="8px" width="428px" src="./.github/hmm.gif">
-
-<p>
-<img align="right" width="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ag0-Zz&hide=handlebars,scss&layout=compact&theme=radical&hide_border=true">
-</p>
+<img align="right" margin="8px" width="300px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
 
 </div>
 
@@ -22,11 +21,16 @@
 </a>
 </div>
 
-# :smile: About me
+## :smile: About me
 Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
 
-# :balloon: Languages and Techs
-<img height="22" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="22" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img height="22" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="22" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img height="22" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Analysis and systems development.
+<!-- - 💼 &nbsp; I’m currently working on Full Stack Development projects. -->
+- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 
-# :cherries: Frameworks
-<img height="22" alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img height="22" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="22" alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="22" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+## :balloon: Languages and Tools
+
+<p>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="60">
+<p>
