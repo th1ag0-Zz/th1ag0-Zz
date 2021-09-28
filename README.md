@@ -2,7 +2,7 @@
 
 <div align="right">
 
-<img align="right" margin="8px" width="300px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif">
+<!-- <img align="right" margin="8px" width="250px" src="https://media.giphy.com/media/xbLZjyMNQqEpTKjkSm/giphy.gif"> -->
 
 </div>
 
@@ -35,8 +35,7 @@ Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue
 ## :balloon: Languages and Frameworks
 
 <img height="22" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="22" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img height="22" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="22" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img height="22" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img height="22" alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img height="22" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="22" alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="22" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img height="22" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="22" alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="22" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <!-- <p>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="60">
