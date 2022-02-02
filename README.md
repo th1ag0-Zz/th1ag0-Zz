@@ -30,7 +30,7 @@
 
 Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Analysis and systems development.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
 
