@@ -28,7 +28,7 @@
 
 ## :smile: About me
 
-Hello, I am a Front End Developer looking for FullStack status.:stuck_out_tongue_winking_eye:
+Hello, I am a FullStack Developer :stuck_out_tongue_winking_eye:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Analysis and systems development.
