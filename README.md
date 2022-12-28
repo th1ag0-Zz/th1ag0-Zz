@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/thiago-f-silva/">Thiago</a></b>.
-    <br>I'm a Web and Mobile Developer with Javascript Stack<br>
+    <br>I'm a Web and Mobile Developer<br>
 
 </samp>
 
