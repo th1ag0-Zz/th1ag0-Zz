@@ -1,44 +1,43 @@
-<!-- <div align="center">
-</div> -->
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/thiago-f-silva/">Thiago</a></b>.
+    <br>I'm a Web and Mobile Developer with Javascript Stack<br>
 
-<h1 align="center">
-  Hey there! I'm Thiago Silva 👋
-</h1>
-<h3 align="center">
-  🚀 FrontEnd Developer | ReactJS and ReactNative 🚀
-</h3>
+</samp>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/thiago-furtado-silva/">
-  <img height="22" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-  <a href="mailto:thiagodeveloper89@gmail.com">
-  <img height="22" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
 
-  <a href="https://www.instagram.com/thiag0_dev/">
-  <img height="22" alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-</div>
+<!--
+<details align="center">
 
-<div align="right">
-  <img align="right" margin="8px" width="300px" src="./.github/laptop.gif">
-</div>
+ <summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-## :smile: About me
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Hello, I am a FullStack Developer :stuck_out_tongue_winking_eye:
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Analysis and systems development.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p>
 
-## :balloon: Languages and Frameworks
 
-<img height="22" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img height="22" alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img height="22" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img height="22" alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img height="22" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img height="22" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="22" alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> <img height="22" alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img height="22" alt="React Native" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> <img height="22" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" /> <img height="22" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-
-<!-- <p>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="40"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="60">
-<p> -->
+</samp>
+</details> -->
