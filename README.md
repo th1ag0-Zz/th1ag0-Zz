@@ -1,11 +1,19 @@
 ### Oi, eu sou o Thiago 👋
 
-#### Desenvolvedor web e mobile de dia ☀️, curioso por novas ideias a qualquer hora 🌙
+## 📊 GitHub Analytics
 
-Gosto de criar interfaces simples, úteis e com personalidade. Também gosto de descobrir por que algo que funcionava ontem resolveu parar hoje. 😄
+<div align="center">
 
-- ⚙️ No meu editor: `.ts`, `.js`, `.html` e `.css`
-- 🧩 Construo com: `React`, `React Native`, `Vue`, `Nuxt` e `Node.js`
-- 📱 Entre web e mobile, meu lugar favorito é onde uma boa ideia vira algo que dá para usar
-- 💬 Pode me chamar para conversar sobre interfaces, desenvolvimento e aquele bug que só aparece na sexta-feira
-- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/thiago-f-silva/)
+<img height="190em" src="https://github-stats-extended.vercel.app/api?username=Jorgeluisreis&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&custom_title=Jorge%20Luis%27s%20Stats&number_format=long&show=prs_merged_percentage,prs_reviewed&hide_border=true"/>
+
+<img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jorgeluisreis&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Jorgeluisreis&theme=midnight-purple&hide_border=true" alt="Contribution Streak"/>
+
+</div>
+
+---
